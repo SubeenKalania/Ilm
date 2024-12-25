@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e23abb9937023341a574d85c4a989df, type: 3}
+  m_Name: NamesData
+  m_EditorClassIdentifier: 
+  nameList:
+  - arabicName: {fileID: 21300000, guid: d6b32f19e0c771447ad9a720d3cb2fc2, type: 3}
+    transliteration: Ar-Rahmaan
+    Meaning: The Most or Entirely Merciful
+  - arabicName: {fileID: 21300000, guid: 6a29c4e98e7612d4aabb7a23d1b6d55f, type: 3}
+    transliteration: Ar-Raheem
+    Meaning: The Bestower of Mercy
+  - arabicName: {fileID: 21300000, guid: 3faab99ab8b7fa148be276741e1775d7, type: 3}
+    transliteration: Al-Malik
+    Meaning: The King and Owner of Dominion
+  - arabicName: {fileID: 21300000, guid: d763202adbd3b8440b19c7d3e74b8224, type: 3}
+    transliteration: Al-Quddus
+    Meaning: The Absolutely Pure
+  - arabicName: {fileID: 21300000, guid: 08f351150ec3e744a9f107c3ba86dfaf, type: 3}
+    transliteration: As-Salaam
+    Meaning: The Perfection and Giver of Peace
+  - arabicName: {fileID: 21300000, guid: 87f5a2305bd3220408482e117e3224e5, type: 3}
+    transliteration: Al-Mu'min
+    Meaning: The One Who gives Emaan and Security
+  - arabicName: {fileID: 21300000, guid: 1356714cd0316b243973baf34f1a7578, type: 3}
+    transliteration: Al-Muhaymin
+    Meaning: The Guardian, The Witness, The Overseer
+  - arabicName: {fileID: 21300000, guid: 179928afdb4b6144da267d61422008d9, type: 3}
+    transliteration: Al-Azeez
+    Meaning: The All Mighty
+  - arabicName: {fileID: 21300000, guid: 46e60da8b6c1725438204854e71bb084, type: 3}
+    transliteration: Al-Jabbar
+    Meaning: The Compeller, The Restorer
+  - arabicName: {fileID: 21300000, guid: e26ff0d20eb20694285153173822ec14, type: 3}
+    transliteration: Al-Mutakabbir
+    Meaning: The Supreme, The Majestic
+  - arabicName: {fileID: 21300000, guid: 29999c4d9252395489ae522d107df0ed, type: 3}
+    transliteration: Al-Khaaliq
+    Meaning: The Creator, The Maker
+  - arabicName: {fileID: 21300000, guid: 1c265b157962a7845a02400dc2563a2d, type: 3}
+    transliteration: Al-Baari
+    Meaning: The Originator
+  - arabicName: {fileID: 21300000, guid: 659207ddd4244894596f76c901131a29, type: 3}
+    transliteration: Al-Musawwir
+    Meaning: The Fashioner
+  - arabicName: {fileID: 21300000, guid: c8c0670304c54cf4fa69bc969fb294fc, type: 3}
+    transliteration: Al-Ghaffaar
+    Meaning: The All- and Oft-Forgiving
+  - arabicName: {fileID: 21300000, guid: a6919fade9eb6fd4eb462e3ff54669a4, type: 3}
+    transliteration: Al-Qahhaar
+    Meaning: The Subduer, The Ever-Dominating
+  - arabicName: {fileID: 21300000, guid: 81fe4ddd6ef49ce4b9fce3090fab58d0, type: 3}
+    transliteration: Al-Wahhaab
+    Meaning: The Giver of Gifts
+  - arabicName: {fileID: 21300000, guid: 7de28b81b0195fb418418c126e0cbcce, type: 3}
+    transliteration: Ar-Razzaqq
+    Meaning: 'The Provider '
+  - arabicName: {fileID: 21300000, guid: 316e2bad1cd97374094b8ff6685305f0, type: 3}
+    transliteration: Al-Fattah
+    Meaning: 'The Opener, The Judge '
+  - arabicName: {fileID: 21300000, guid: 015f3fee3e2466d42bc0722b15b133dd, type: 3}
+    transliteration: Al-Aleem
+    Meaning: 'The All-Knowing, The Omniscient '
+  - arabicName: {fileID: 21300000, guid: 3d7e50beb76f30b44af0e03f7421faa5, type: 3}
+    transliteration: Al-Qaabid
+    Meaning: 'The Withholder '
+  - arabicName: {fileID: 21300000, guid: a8880eff8adb7c14c8fb581b596eef6e, type: 3}
+    transliteration: Al-Baasit
+    Meaning: 'The Extender '
+  - arabicName: {fileID: 21300000, guid: 701144103915cc04caa395233ae089f1, type: 3}
+    transliteration: Al-Khaafidh
+    Meaning: 'The Reducer, The Abaser '
+  - arabicName: {fileID: 21300000, guid: 058041fe3575ee2459e42707755ffe6d, type: 3}
+    transliteration: Ar-Raafi
+    Meaning: The Exalter, The Elevator
+  - arabicName: {fileID: 21300000, guid: 89f3a5c0c452bf94c8020d114b188939, type: 3}
+    transliteration: Al-Mu'izz
+    Meaning: The Honourer, The Bestower
+  - arabicName: {fileID: 21300000, guid: 65041bd8935632745a6bda72cd6d6a9b, type: 3}
+    transliteration: Al-Muzil
+    Meaning: 'The Dishonourer, The Humiliator '
+  - arabicName: {fileID: 21300000, guid: 1f56958e5d8a8d74f9fb9358c81e957d, type: 3}
+    transliteration: As-Samee
+    Meaning: 'The All-Hearing '
+  - arabicName: {fileID: 21300000, guid: f58deca70c155c14d99feed0456ec98d, type: 3}
+    transliteration: Al-Baseer
+    Meaning: 'The All-Seeing '
+  - arabicName: {fileID: 21300000, guid: 9010e86c1a831de4099bc9d47f3ddc0e, type: 3}
+    transliteration: Al-Hakam
+    Meaning: 'The Judge, The Giver of Justice '
+  - arabicName: {fileID: 21300000, guid: a889f28f72fe74a44a022121d5ae5767, type: 3}
+    transliteration: Al-Adl
+    Meaning: 'The Utterly Just '
+  - arabicName: {fileID: 21300000, guid: 712ff8696073a904cbdd6844242650d9, type: 3}
+    transliteration: Al-Lateef
+    Meaning: 'The Subtle One, The Most Gentle '
