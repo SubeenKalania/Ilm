@@ -5,6 +5,7 @@ using TMPro;
 using UnityEngine.UI;
 
 
+
 public class Manager : MonoBehaviour
 {
     public MyScriptableObject dataList;
@@ -14,13 +15,16 @@ public class Manager : MonoBehaviour
     public int indexCounter;
     public TextMeshProUGUI transliterationText;
     public TextMeshProUGUI meaningText;
+    public TextMeshProUGUI numberText;
+
+
+
+    
 
     public void Start()
     {
-        indexCounter = 0;
-        arabicNameTextImg.sprite = dataList.nameList[indexCounter].arabicName;
-        transliterationText.text = dataList.nameList[indexCounter].transliteration;
-        meaningText.text = dataList.nameList[indexCounter].Meaning;
+        
+        UpdateValues();
     }
 
     public void NextButtonCall()
@@ -37,9 +41,8 @@ public class Manager : MonoBehaviour
         {
             indexCounter = 0;
         }
-        arabicNameTextImg.sprite = dataList.nameList[indexCounter].arabicName;
-        transliterationText.text = dataList.nameList[indexCounter].transliteration;
-        meaningText.text = dataList.nameList[indexCounter].Meaning;
+        UpdateValues();
+        
     }
 
     public void PreviousButtonCall()
@@ -53,8 +56,16 @@ public class Manager : MonoBehaviour
         {
             indexCounter = dataList.nameList.Count - 1;
         }
+        UpdateValues();
+        
+    }
+
+
+    public void UpdateValues()
+    {
         arabicNameTextImg.sprite = dataList.nameList[indexCounter].arabicName;
         transliterationText.text = dataList.nameList[indexCounter].transliteration;
         meaningText.text = dataList.nameList[indexCounter].Meaning;
+        numberText.text = (indexCounter + 1).ToString();
     }
 }

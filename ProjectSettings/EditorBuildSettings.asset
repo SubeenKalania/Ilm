@@ -9,6 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: cfb01fc3004c14d4caa225a26e1ba0a7
+  - enabled: 1
     path: Assets/Scenes/DisplayNamesPage.unity
     guid: fcfc9f7b2c017ff41abbebba72368f3c
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f4bc3a254b0864a4683117548e479097, type: 2}

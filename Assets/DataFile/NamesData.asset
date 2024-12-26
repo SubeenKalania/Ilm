@@ -103,3 +103,210 @@ MonoBehaviour:
   - arabicName: {fileID: 21300000, guid: 712ff8696073a904cbdd6844242650d9, type: 3}
     transliteration: Al-Lateef
     Meaning: 'The Subtle One, The Most Gentle '
+  - arabicName: {fileID: 21300000, guid: 0f4ccb824f802a44b809b6b757065a3a, type: 3}
+    transliteration: Al-Khabeer
+    Meaning: The Acquainted, The All-Aware
+  - arabicName: {fileID: 21300000, guid: 747c70ce053be11478687f88669b95bb, type: 3}
+    transliteration: Al-Haleem
+    Meaning: The Most Forbearing
+  - arabicName: {fileID: 21300000, guid: f009036483a113e45b4a231571b94ee5, type: 3}
+    transliteration: Al-Azeem
+    Meaning: The Magnificent, The Supreme
+  - arabicName: {fileID: 21300000, guid: 06b653dda96e622419b6a0e18e7566fd, type: 3}
+    transliteration: Al-Ghafoor
+    Meaning: The Forgiving, The Exceedingly Forgiving
+  - arabicName: {fileID: 21300000, guid: 3857c1596b1793e469228e1da52b1561, type: 3}
+    transliteration: Ash-Shakoor
+    Meaning: The Most Appreciative
+  - arabicName: {fileID: 21300000, guid: 26f96ff4fa6d37543b8565b4784dc30a, type: 3}
+    transliteration: Al-Ali
+    Meaning: The Most High, The Exalted
+  - arabicName: {fileID: 21300000, guid: 42f1acbdc7f570744b67233f77cf5bba, type: 3}
+    transliteration: Al-Kabeer
+    Meaning: The Greatest, The Most Grand
+  - arabicName: {fileID: 21300000, guid: 15bfedbace36fad4ea62b3adea54133c, type: 3}
+    transliteration: Al-Hafeez
+    Meaning: The Preserver, The All-Heedful and All-Protecting
+  - arabicName: {fileID: 21300000, guid: ce2b4c9ed6573a7449ef4a6e39b850b4, type: 3}
+    transliteration: Al-Muqeet
+    Meaning: The Sustainer, The Maintainer
+  - arabicName: {fileID: 21300000, guid: d7e6bc04b3ec5ff4dbf52580c85a0e42, type: 3}
+    transliteration: Al-Hasib
+    Meaning: The Reckoner
+  - arabicName: {fileID: 21300000, guid: 81491f065bd7a884898939868f915ce8, type: 3}
+    transliteration: Al-Jaleel
+    Meaning: The Majestic
+  - arabicName: {fileID: 21300000, guid: 58275481b6949e146822e3f192b3198f, type: 3}
+    transliteration: Al-Kareem
+    Meaning: The Most Generous, The Most Esteemed
+  - arabicName: {fileID: 21300000, guid: aee39ca378d8b2d44a733ac3856b24e6, type: 3}
+    transliteration: Ar-Raqeeb
+    Meaning: The Watchful, The All-Watchful
+  - arabicName: {fileID: 21300000, guid: bd5af96cd6659ae4bb2ce05883f4fbbf, type: 3}
+    transliteration: Al-Mujeeb
+    Meaning: The Responsive, The Answerer
+  - arabicName: {fileID: 21300000, guid: eb0847cd2436d054787e473c1d6800ac, type: 3}
+    transliteration: Al-Waasi
+    Meaning: The All-Encompassing, the Boundless
+  - arabicName: {fileID: 21300000, guid: 78a0fe948bde3c2438915e47de771135, type: 3}
+    transliteration: Al-Hakeem
+    Meaning: The All-Wise
+  - arabicName: {fileID: 21300000, guid: 8e12d61ed55d4894baebd3758751c92f, type: 3}
+    transliteration: Al-Wadud
+    Meaning: The Most Loving
+  - arabicName: {fileID: 21300000, guid: 291f7510c058eae43b505b5cc0924fae, type: 3}
+    transliteration: Al-Majeed
+    Meaning: The Glorious, The Most Honorable
+  - arabicName: {fileID: 21300000, guid: 32e5387e86db7d942933fd07bd6d4236, type: 3}
+    transliteration: Al-Baa'is
+    Meaning: The Infuser of New Life
+  - arabicName: {fileID: 21300000, guid: 68d6c64f293d5914fa9c4e53a9dbb07d, type: 3}
+    transliteration: As-Shaheed
+    Meaning: The All Observing Witnessing
+  - arabicName: {fileID: 21300000, guid: d941744612f454a4e802c2d3e4500ab2, type: 3}
+    transliteration: Al-Haqq
+    Meaning: The Absolute Truth
+  - arabicName: {fileID: 21300000, guid: 86e583d0ab5e8c74e9ef6854cca8c957, type: 3}
+    transliteration: Al-Wakeel
+    Meaning: The Trustee, The Disposer of Affairs
+  - arabicName: {fileID: 21300000, guid: be5d440cec423d348be7a4636e144487, type: 3}
+    transliteration: Al-Qawiyy
+    Meaning: The All-Strong
+  - arabicName: {fileID: 21300000, guid: 7b12ddad39fd42f4dabf516f4d4b38ba, type: 3}
+    transliteration: Al-Mateen
+    Meaning: The Firm, The Steadfast
+  - arabicName: {fileID: 21300000, guid: ab42e66f136acc848a2d9d6f93fbd6e6, type: 3}
+    transliteration: Al-Walee
+    Meaning: The Protecting Associate
+  - arabicName: {fileID: 21300000, guid: 3445b0adafb107d4fae3b4517c1bad69, type: 3}
+    transliteration: Al-Hameed
+    Meaning: The Praiseworthy
+  - arabicName: {fileID: 21300000, guid: 2407729b88d00a642986862911fea882, type: 3}
+    transliteration: Al-Muhsee
+    Meaning: The All-Enumerating, The Counter
+  - arabicName: {fileID: 21300000, guid: 5fa02bc9d26cc264ba65302efa783b41, type: 3}
+    transliteration: Al-Mubdi
+    Meaning: The Originator, The Initiator
+  - arabicName: {fileID: 21300000, guid: 7ebe1087a42928749bc1c2ac13b7ba07, type: 3}
+    transliteration: Al-Mu'id
+    Meaning: The Restorer, The Reinstater
+  - arabicName: {fileID: 21300000, guid: 472944f4b629b0d45a9f09b09e6dbec3, type: 3}
+    transliteration: Al-Muhyee
+    Meaning: The Giver of Life
+  - arabicName: {fileID: 21300000, guid: 346b483155ad9144b8933f25d4b61644, type: 3}
+    transliteration: Al-Mumeet
+    Meaning: The Creator of Death
+  - arabicName: {fileID: 21300000, guid: 43d1ceff099e5e54ebe5c332ad92c1b1, type: 3}
+    transliteration: Al-Hayy
+    Meaning: The Ever-Living
+  - arabicName: {fileID: 21300000, guid: e7af04e6000685a4b83115cc1028f524, type: 3}
+    transliteration: Al-Qayyoom
+    Meaning: The Sustainer, The Self-Subsisting
+  - arabicName: {fileID: 21300000, guid: 9b73fc174edd63f4cae0227092a6cc89, type: 3}
+    transliteration: Al-Waajid
+    Meaning: The Perceiver
+  - arabicName: {fileID: 21300000, guid: cfc36e6da8153ce4fbcfa3567d90fb94, type: 3}
+    transliteration: Al-Maajid
+    Meaning: The Illustrious, The Magnificent
+  - arabicName: {fileID: 21300000, guid: 423e28ffa6364ec4e93a9772e2c5f7b3, type: 3}
+    transliteration: Al-Waahid
+    Meaning: The One, The Indivisible
+  - arabicName: {fileID: 21300000, guid: fbbf1508e6c474b49b4f760463e145de, type: 3}
+    transliteration: Al-Ahad
+    Meaning: The Unique, The Only One
+  - arabicName: {fileID: 21300000, guid: 5615f296275418342ba8648c5166dfe7, type: 3}
+    transliteration: As-Samad
+    Meaning: The Eternal, Satisfier of Needs
+  - arabicName: {fileID: 21300000, guid: 508d794f86c2a3141957789f89de7db5, type: 3}
+    transliteration: Al-Qadir
+    Meaning: The Omnipotent
+  - arabicName: {fileID: 21300000, guid: fe782923bc450094a9302d50b31e1c8f, type: 3}
+    transliteration: Al-Muqtadir
+    Meaning: The Powerful
+  - arabicName: {fileID: 21300000, guid: 1217d1696a845f5428fec799fc999b07, type: 3}
+    transliteration: Al-Muqaddim
+    Meaning: The Expediter, The Promoter
+  - arabicName: {fileID: 21300000, guid: 3b0aa71c3b9b56e40bbabeb9f27a9faf, type: 3}
+    transliteration: Al-Mu'akkhir
+    Meaning: The Delayer
+  - arabicName: {fileID: 21300000, guid: 62551d381e5e0e44f83d27a04edeedfa, type: 3}
+    transliteration: Al-Awwal
+    Meaning: The First
+  - arabicName: {fileID: 21300000, guid: 09352f27bc05086499e393091daed4f6, type: 3}
+    transliteration: Al-Aakhir
+    Meaning: The Last, The Utmost
+  - arabicName: {fileID: 21300000, guid: 380c5d7ab0c64514b8e02526e42f292e, type: 3}
+    transliteration: Az-Zahir
+    Meaning: The Manifest, The All-Surpassing
+  - arabicName: {fileID: 21300000, guid: 6a310d5696b5bc2458b7804a4467bb3e, type: 3}
+    transliteration: Al-Baatin
+    Meaning: The Hidden One, Knower of the Hidden
+  - arabicName: {fileID: 21300000, guid: 5788c0615821e14419c11bbc0d1f3e33, type: 3}
+    transliteration: Al-Waalee
+    Meaning: The Sole Governor
+  - arabicName: {fileID: 21300000, guid: 96846d70c40325a4d84641455cd5de1a, type: 3}
+    transliteration: Al-Muta'ali
+    Meaning: The Self Exalted
+  - arabicName: {fileID: 21300000, guid: 27a2f2a9a4177534ea928fa2f14ad053, type: 3}
+    transliteration: Al-Barr
+    Meaning: The Source of All Goodness
+  - arabicName: {fileID: 21300000, guid: 4d72e288e14b8a54f9a059bb723e0d4d, type: 3}
+    transliteration: At-Tawwaab
+    Meaning: The Ever-Pardoning
+  - arabicName: {fileID: 21300000, guid: a5abdabc0c68dc2468bf67ffecf42213, type: 3}
+    transliteration: Al-Muntaqim
+    Meaning: The Avenger
+  - arabicName: {fileID: 21300000, guid: 16bf4504c8934bf41b08c21785e8d327, type: 3}
+    transliteration: Al-'Afuww
+    Meaning: The Pardoner
+  - arabicName: {fileID: 21300000, guid: e10701c8035ab374a97d11a8a580c6f8, type: 3}
+    transliteration: Ar-Ra'oof
+    Meaning: The Most Kind
+  - arabicName: {fileID: 21300000, guid: ce18c46b3ed562e48bb6bc32512b4771, type: 3}
+    transliteration: Maalik-Al-Mulk
+    Meaning: Master of the Dominion, Owner of the Kingdom
+  - arabicName: {fileID: 21300000, guid: ebad2617da5d0074e89381f8967b952f, type: 3}
+    transliteration: Zul-Jalaali wal-Ikraam
+    Meaning: Possessor of Glory and Honour
+  - arabicName: {fileID: 21300000, guid: 857ef8e4f0ac0fa478ca1cc5abb8e322, type: 3}
+    transliteration: al-Muqsit
+    Meaning: The Just One
+  - arabicName: {fileID: 21300000, guid: 007ca716efb8c2c4b9b7f018750af445, type: 3}
+    transliteration: Al-Jaami
+    Meaning: The Gatherer, the Uniter
+  - arabicName: {fileID: 21300000, guid: 06008629256fd3042b7f747bf62bd743, type: 3}
+    transliteration: Al-Ghaniyy
+    Meaning: The Self-Sufficient, The Wealthy
+  - arabicName: {fileID: 21300000, guid: 0aac2f145a87ad84287672a10add1596, type: 3}
+    transliteration: Al-Mughni
+    Meaning: The Enricher
+  - arabicName: {fileID: 21300000, guid: d206affd35cd27245a0b60aad694014a, type: 3}
+    transliteration: Al-Maani
+    Meaning: The Withholder
+  - arabicName: {fileID: 21300000, guid: c392ec16330738f4a97848a538cf36c6, type: 3}
+    transliteration: Ad-Dhaarr
+    Meaning: The Distresser
+  - arabicName: {fileID: 21300000, guid: 74ae959209449a244a497b0f4e39dd08, type: 3}
+    transliteration: An-Naafi
+    Meaning: The Propitious, The Benefactor
+  - arabicName: {fileID: 21300000, guid: ebe7cadf3cb2c4840b029b882a640b3e, type: 3}
+    transliteration: An-Noor
+    Meaning: The Light
+  - arabicName: {fileID: 21300000, guid: 4993967e5844f5c41b1c98dafda24f6e, type: 3}
+    transliteration: Al-Haadi
+    Meaning: The Guide
+  - arabicName: {fileID: 21300000, guid: 861d584cbddc5f54c8c0567e416e1c75, type: 3}
+    transliteration: Al-Badee
+    Meaning: The Incomparable Originator
+  - arabicName: {fileID: 21300000, guid: 0e34a8ccf811c244a832d08b04e7f26c, type: 3}
+    transliteration: Al-Baaqi
+    Meaning: The Ever-Lasting
+  - arabicName: {fileID: 21300000, guid: 77c05f9e7122fe242913619eddda9167, type: 3}
+    transliteration: Al-Waaris
+    Meaning: The Inheritor
+  - arabicName: {fileID: 21300000, guid: 66deef48c7b3394429d2f92a74f48128, type: 3}
+    transliteration: Ar-Rasheed
+    Meaning: The Guide to the Right Path
+  - arabicName: {fileID: 21300000, guid: 95ac1e659c849994da31b87ca4b8a7b6, type: 3}
+    transliteration: al-Saboor
+    Meaning: The Patient

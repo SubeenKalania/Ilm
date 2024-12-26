@@ -12,7 +12,9 @@ public class MyScriptableObject : ScriptableObject
         public Sprite arabicName;
         public string transliteration;
         public string Meaning;
+       
 
     }
      public List <NameData> nameList;
+    
 }

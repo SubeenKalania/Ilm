@@ -8,17 +8,18 @@ public class ColorLerper : MonoBehaviour
 {
     public Image gradientImage;
     public float lerpTime=0.1f;
+    public bool isFlipped;
+    public float offset = 0.5f;
 
     private float hue;
-    private float saturation=0.45f;
-    private float vibration=1f;
+  
+    public float saturation;
+    public float vibration = 1f;
 
 
-    private void Start()
-    {
-        gradientImage.color = Color.HSVToRGB(Random.Range(0f, 1f), saturation, vibration);
-    }
+ 
 
+        
 
 
     private void Update()
@@ -31,28 +32,26 @@ public class ColorLerper : MonoBehaviour
 
     public void LerpColor()
     {
-        Color.RGBToHSV(gradientImage.color, out hue, out saturation, out vibration);
-        hue = Mathf.PingPong(lerpTime * Time.time, 1.0f);
+        
+        if (isFlipped == true)
+        {
+            Color.RGBToHSV(gradientImage.color, out hue, out saturation, out vibration);
+            hue =Mathf.Abs(Mathf.PingPong(lerpTime * Time.time + offset, 1.0f) - 1f);
+
+        }
+        else
+        {
+            hue = Mathf.PingPong(lerpTime * Time.time, 1.0f);
+
+        }
+       
 
         gradientImage.color = Color.HSVToRGB(hue, saturation, vibration);
     }
-    
+
 
 }
 
 
-/**
- * 1. We need to take the value in Hsv
- *      1.5 Update Hue value by lerpTime
- * 2. We need to convert the value in RGB
- * 3. 
- * 
- * /
 
-
-/** 
- * 1. Go to the Image.color
- * 2. Connect the color to colorOne by x seconds
- * 3. Connect the color to colorTwo by x seconds
- * 
- */
+ 
